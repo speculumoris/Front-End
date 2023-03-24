@@ -1,0 +1,10 @@
+body{
+    font-family: 'Nunito', sans-serif ;
+}
+h1{
+    font-family: 'Oswald' ,sans-serifb ;
+}
+
+h1.title{
+    text-decoration: line-through;
+}

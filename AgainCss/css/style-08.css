@@ -1,0 +1,16 @@
+a{
+color: green;
+text-decoration: none;
+}
+
+a:link{
+    color: chocolate;
+}
+a:visited{
+    color: rgb(255, 0, 200);
+}
+
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
