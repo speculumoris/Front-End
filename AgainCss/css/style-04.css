@@ -1,0 +1,24 @@
+*{
+    color: cornflowerblue;
+}
+
+.highlight{
+    font-size: 1.2rem;
+    color: blue;
+}
+
+.center{
+    text-align: center;
+}
+h1.center{
+    background-color: chocolate;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    background-color: beige;
+}
+
+.span1{
+    color: red;
+}

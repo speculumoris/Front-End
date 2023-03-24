@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "63a20ab6792c48c47aa4b04a"
+  },
+  "price": 250,
+  "name": "Woww"
+},{
+  "_id": {
+    "$oid": "63a20b9a20ca5fd91185a26f"
+  },
+  "price": 330,
+  "name": "TV"
+},{
+  "_id": {
+    "$oid": "63a20c2720ca5fd91185a272"
+  },
+  "name": "En Pahalı",
+  "price": 2000
+},{
+  "_id": {
+    "$oid": "63a20ca620ca5fd91185a274"
+  },
+  "name": "Woww",
+  "price": 90
+},{
+  "_id": {
+    "$oid": "63a20ccd20ca5fd91185a275"
+  },
+  "name": "Woww",
+  "price": 95,
+  "marka": "Philips"
+},{
+  "_id": {
+    "$oid": "63a20f6d792c48c47aa4b04c"
+  },
+  "name": "iphone14"
+},{
+  "_id": {
+    "$oid": "63a20f6d792c48c47aa4b04d"
+  },
+  "name": "Woww",
+  "price": 53,
+  "tax": 10
+},{
+  "_id": {
+    "$oid": "63a211a2792c48c47aa4b04e"
+  },
+  "name": "iron",
+  "tax": 12
+},{
+  "_id": {
+    "$oid": "63a212ea792c48c47aa4b04f"
+  },
+  "price": 123,
+  "name": "Woww"
+},{
+  "_id": {
+    "$oid": "63a212ea792c48c47aa4b050"
+  },
+  "name": "radio",
+  "tax": 8
+},{
+  "_id": {
+    "$oid": "63a36bd4e46513449029be2c"
+  },
+  "price": 250,
+  "name": "Woww"
+},{
+  "_id": {
+    "$oid": "63a36c42e46513449029be6d"
+  },
+  "price": 250,
+  "name": "Woww"
+}]
