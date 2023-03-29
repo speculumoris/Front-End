@@ -1,0 +1,34 @@
+body{
+    background-image: url("../img/resim2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    font-style: italic;
+}
+.menu{
+    background-color: aqua;
+    padding: 1rem;
+}
+.menu a {
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-right: 1rem;
+}
+.menu a:hover{
+    color: yellow;
+}
+.icerik{
+    background-color: burlywood;
+}
+.icerik p{
+    padding: 1rem;
+}
+
+.tablo h2{
+    font-style: italic;
+}
+table,th,td{
+    border: 1px solid black;
+}
